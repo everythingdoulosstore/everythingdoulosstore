@@ -1,0 +1,10 @@
+{
+  "name": "everything-doulos-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Launch website for Everything Doulos Store, Everything Doulos Cards, ages 0-5, launching 1 November 2026.",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
